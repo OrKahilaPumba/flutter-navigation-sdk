@@ -16,6 +16,7 @@ A Google Maps Navigation Flutter plugin.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.dependency 'GoogleNavigation', '5.3.1'
+  s.dependency 'GoogleMaps', '~> 8.3.1'
   s.platform = :ios, '14.0'
 
   # Flutter.framework does not contain a i386 slice.
